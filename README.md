@@ -1,6 +1,6 @@
 <h2>Olá! Eu sou Carlos Eduardo da Silva Campos</h2>
 
-- Estudadno Java e SQL
+- Estudando Java e SQL
 - Contate-me no email: carloseduardodas.c@gmail.com
 
 <div align="center">
